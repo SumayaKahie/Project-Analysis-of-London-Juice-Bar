@@ -1,6 +1,5 @@
 # Joe & The Juice: Sales, Product and Store Performance Analysis
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## Project Background 
+
 Joe & The Juice is a premium urban food and beverage retailer operating across high-footfall locations in major cities. The brand is known for its strong health-related product identity, fast-paced service model, and emphasis on customer experience. As the company continues to expand its store footprint and product offering, leadership requires deeper insight into sales performance, product demand, and store-level profitability to support strategic decisions around pricing, staffing, and product portfolio optimisation. The company has significant amounts of data on its sales, marketing efforts and operational efficiency and product offerings that has previously been underutilised. This project thoroughly analyses transactional sales data to identify key revenue drivers, growth opportunities, and operational risks across Joe & The Juice’s retail network.
 ### Core Business Areas Analysed
 Insights and recommendations are provided across four core business areas:
@@ -17,7 +16,6 @@ An interactive Power BI dashboard can be downloaded here.
  The SQL queries utlisied to clean, organise, and prepare data for the dashboard can be found here.
  Targeted SQL queries regarding various business questions can be found here.
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Dataset Overview 
 The analysis is based on over 200,000 transaction records spanning the H1 period from January 2025 to June 2025, providing a six-month view of sales and consumer behavior across Joe & The Juice’s retail network. The dataset is organized into three primary tables, which are interconnected to provide a comprehensive view of sales, product performance, and store-level profitability:
@@ -47,7 +45,6 @@ Cost of goods allows calculation of margins, supporting strategic product priori
 Transaction-level granularity enables evaluation of bundling effects, upsell success, and AOV trends.
 This structure forms the foundation for the interactive Power BI dashboard, allowing stakeholders to explore sales trends, product performance, and store-level insights efficiently. A visual model diagram can be inserted here to show the tables and their relationships, providing a clear overview for executive stakeholders.
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Executive Summary
 After peaking in early 2025, the company’s sales have continued to decline, with significant drops in June. Key performance indicators have mostly shown month-on-month decreases: order volume by over 5000 units, revenue by 8%, and only average order value (AOV) having a net positive. While this decline can be broadly attributed to a return to post-new-year purchasing norms, further analysis reveals location-specific patterns, product-level trends, and seasonal effects that are also influencing performance.
@@ -55,7 +52,6 @@ Below is the overview page from the PowerBI dashboard and more examples are incl
 <img width="1277" height="718" alt="image" src="https://github.com/user-attachments/assets/d4163eb4-4013-43b0-9898-071f329a6b4d" />
 Figure 2
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Sales Trend
 Post-New-Year surge drives January sales peak, with a mid-quarter slowdown highlighting seasonal and operational sensitivities. The company’s sales peaked in January 2025, with 65,000 orders generating over £500k in revenue, driven by the “Fresh Start Effect,” where increased health-conscious purchasing influences customer behaviour. From February to April, revenue declined for three consecutive months, hitting a Q1 low of £460k, representing a 6–8% month-on-month drop. Units sold mirrored this trend, indicating that the decline was driven by reduced customer traffic rather than pricing changes. Revenue began recovering in March and May, reflecting seasonal demand patterns influenced by holidays, weekend activity, and local store traffic dynamics. This trend highlights sensitivity to both seasonality and location-specific traffic patterns, suggesting that the marketing, operations, and merchandising teams should align promotions, staffing, and product availability with anticipated peaks and troughs.
@@ -68,7 +64,6 @@ Despite the early-year dip, full-year 2025 remained above the 2022–2024 baseli
 
 The stronger AOV suggests that while unit sales and overall revenue fluctuate with seasonality, per-transaction spend can be influenced by targeted product initiatives. These findings indicate that promotional strategies and premium product offerings directly impact profitability even when overall footfall varies.
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Product Performance
 Celebrity Shakes Lead the Pack. The analysis of individual product performance highlights that top-performing items are dominated by the Celebrity Shake line. Among the top 10 products by revenue, four are celebrity-endorsed shakes: Trust Your Gut, Big Brain Energy, Feel Good, and Hydration Station. Notably, Trust Your Gut and Big Brain Energy were launched in January 2025 and, together, have generated £266k of total revenue in H1. The remaining top performers are primarily juices and smoothies, including JOE’s Identity, Power and Avo Shake. These products demonstrate strong consumer adoption and highlight the ongoing demand for high-value, fresh, and functional beverages. The success of the celebrity-endorsed shakes indicates that strategic product launches and influencer-driven marketing can significantly impact early adoption and revenue growth.
@@ -93,7 +88,7 @@ Low-revenue categories like Bowls and Coffee could benefit from bundling or prom
 #### Category Expansion Opportunities
 With Juices and Smoothies driving over half of H1 revenue, exploring new flavor profiles, seasonal specials, or limited-time launches could further strengthen growth.
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## Regional Performance
 Joe & The Juice’s four London stores show clear revenue gaps that are not explained by store size alone, but by customer behavior and product preferences:
 
@@ -114,7 +109,6 @@ Figure 7
 
 - Tottenham Court Road and Dean Street contribute the remaining middle 48%, indicating potential to boost revenue through product mix optimisation and targeted promotions.
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Temporal Behaviour Patterns  
 ### Weekend vs Weekday Performance
@@ -146,7 +140,6 @@ Stores like Tottenham and Liverpool may need targeted promotions or staffing adj
 Soho’s ability to maintain steady afternoon revenue shows opportunity to capitalise on leisure traffic, while Dean Street could experiment with promotions to flatten the mid-afternoon dip.
 Understanding these temporal demand patterns allows for more precise staff scheduling, inventory allocation, and marketing initiatives by hour and day.
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Recommendations - By Department
 Based on insights from sales trends, product performance, regional differences, and temporal behaviour patterns, the following recommendations are proposed to maximise revenue, optimise operations, and refine product strategy:
