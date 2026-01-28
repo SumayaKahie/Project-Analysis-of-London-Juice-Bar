@@ -1,7 +1,10 @@
 # Joe & The Juice: Sales, Product and Store Performance Analysis
 #### An end-to-end SQL and Power BI analysis on 6 months of sales trends, product performance, and store-level behaviour across a multi-location retail business.
 
-Joe & The Juice is a premium urban food and beverage retailer operating across high-footfall locations in major cities. The brand is known for its strong health-related product identity, fast-paced service model, and emphasis on customer experience. As the company continues to expand its store footprint and product offering, leadership requires deeper insight into sales performance, product demand, and store-level profitability to support strategic decisions around pricing, staffing, and product portfolio optimisation. The company has significant amounts of data on its sales, marketing efforts and operational efficiency and product offerings that has previously been underutilised. This project thoroughly analyses transactional sales data to identify key revenue drivers, growth opportunities, and operational risks across Joe & The Juice’s retail network.
+Joe & The Juice is a premium urban food and beverage retailer operating across high-footfall locations in major cities. The brand is known for its strong health-related product identity, fast-paced service model, and emphasis on customer experience. As the company continues to expand its store footprint and product offering, leadership requires deeper insight into sales performance, product demand, and store-level profitability to support strategic decisions around pricing, staffing, and product portfolio optimisation. 
+
+The company has significant amounts of data on its sales, marketing efforts and operational efficiency and product offerings that has previously been underutilised. This project thoroughly analyses transactional sales data to identify key revenue drivers, growth opportunities, and operational risks across Joe & The Juice’s retail network.
+
 ### Core Business Areas Analysed
 Insights and recommendations are provided across four core business areas:
 #### Revenue & Demand Trends
@@ -14,12 +17,8 @@ Comparing store growth, stability, and revenue concentration across locations.
 Assessing margin dynamics and cost drivers to highlight opportunities for optimisation.
 
 An interactive Power BI dashboard can be provided upon request through a shared link.
-
 The SQL queries utlisied to inspect and perform quality checks, clean, organise, and prepare data for the dashboard can be found here: https://github.com/SumayaKahie/Juice_bar_ecommerce_analytics/blob/main/SQL/07_quality_checks.sql
-
 Targeted SQL queries regarding various business questions can be found here: https://github.com/SumayaKahie/Juice_bar_ecommerce_analytics/tree/main/SQL
-
-
 
 ## Dataset Overview 
 The analysis is based on over 200,000 transaction records spanning the H1 period from January 2025 to June 2025, providing a six-month view of sales and consumer behavior across Joe & The Juice’s retail network. The dataset is organized into three primary tables, which are interconnected to provide a comprehensive view of sales, product performance, and store-level profitability:
