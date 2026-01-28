@@ -12,8 +12,11 @@ An analysis of Joe’s various product lines, evaluating which products drive re
 Comparing store growth, stability, and revenue concentration across locations.
 #### Profitability & Efficiency
 Assessing margin dynamics and cost drivers to highlight opportunities for optimisation.
+
 An interactive Power BI dashboard can be provided upon request through a shared link.
+
 The SQL queries utlisied to inspect and perform quality checks, clean, organise, and prepare data for the dashboard can be found here: https://github.com/SumayaKahie/Juice_bar_ecommerce_analytics/blob/main/SQL/07_quality_checks.sql
+
 Targeted SQL queries regarding various business questions can be found here: https://github.com/SumayaKahie/Juice_bar_ecommerce_analytics/tree/main/SQL
 
 
