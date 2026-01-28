@@ -1,0 +1,29 @@
+# SQL Analytics Framework — Joe & The Juice Case Study
+
+This folder contains structured SQL queries used to replicate the analytics in the Power BI dashboard.
+
+Each script is organised by business question to ensure reproducibility and clarity.
+
+## 1. Revenue & Sales Performance
+- Identify top-performing stores by revenue
+- Compare revenue distribution across locations
+
+## 2. Product Performance
+- Identify best and worst performing products
+- Evaluate strategic vs underperforming products
+
+## 3. Store & Regional Analysis
+- Compare store-level category performance
+- Identify growth opportunities and revenue concentration
+
+## 4. Temporal & Behaviour Analysis
+- Compare weekend vs weekday demand
+- Identify peak trading hours
+
+## 5. Profitability & Margin Analysis
+- Compare revenue vs profit by product category
+
+## 6. Trend & Growth Analysis
+- Identify product and store growth trends over time
+
+Each query includes business insight comments to explain analytical purpose.
