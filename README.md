@@ -78,10 +78,12 @@ Celebrity Shakes Lead the Pack. The analysis of individual product performance h
 <img width="1277" height="702" alt="image" src="https://github.com/user-attachments/assets/f919d6c5-bd94-4a6c-8e9b-c5743391e167" />
 Figure 4
 
+
 Category-level trends reveal that Juices and Smoothies together account for over 53% of total H1 revenue, underscoring the central role of functional beverages in Joe & The Juice’s product portfolio. Sandwiches remain a strong performer, contributing 23% of total revenue, reflecting steady demand for convenient meal options.
 
 <img width="587" height="291" alt="image" src="https://github.com/user-attachments/assets/c25f97af-7089-40ce-a9b5-24c00878afeb" />
 Figure 5
+
 
 Bowls and coffee products demonstrate slower sales despite their menu presence. Coffee accounts for 20% of total revenue; while order volumes are high, the average order value is only £4, reducing its overall revenue contribution. Bowls represent just 5% of sales, which can be attributed to the limited menu offering — only two bowl options are available, with JOE’s Overnight Oats Bowl being the least purchased product in H1.
 
@@ -102,10 +104,12 @@ Joe & The Juice’s four London stores show clear revenue gaps that are not expl
 <img width="1262" height="263" alt="image" src="https://github.com/user-attachments/assets/c2809b9d-88a4-4dba-ab08-ebecff2a1c0c" />
 Figure 6
 
+
 - Soho leads the pack, generating £844k in revenue over H1 2025. This performance is driven by the highest average order value of £10.53, reflecting the store’s popularity with premium-priced products. The most popular category in Soho is Juice (£373k) and Smoothies (£236k), both higher-priced items, which explains the elevated AOV.
 
 <img width="1251" height="405" alt="image" src="https://github.com/user-attachments/assets/a9d378b0-5104-4b8b-ae79-af9f480ddbd2" />
 Figure 7
+
 
 - Tottenham Court Road comes second, earning £713k, with an AOV of £8.81. The store’s most popular product category is Coffee (£238k), which is the lowest-priced item among top categories, partially explaining the lower AOV. Tottenham’s customer base is heavily commuter-driven, resulting in high weekday traffic but lower spending per order.
 
