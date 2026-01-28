@@ -61,31 +61,39 @@ Figure 2
 
 
 ## Sales Trend
-Post-New-Year surge drives January sales peak, with a mid-quarter slowdown highlighting seasonal and operational sensitivities. The company’s sales peaked in January 2025, with 65,000 orders generating over £500k in revenue, driven by the “Fresh Start Effect,” where increased health-conscious purchasing influences customer behaviour. From February to April, revenue declined for three consecutive months, hitting a Q1 low of £460k, representing a 6–8% month-on-month drop. Units sold mirrored this trend, indicating that the decline was driven by reduced customer traffic rather than pricing changes. Revenue began recovering in March and May, reflecting seasonal demand patterns influenced by holidays, weekend activity, and local store traffic dynamics. This trend highlights sensitivity to both seasonality and location-specific traffic patterns, suggesting that the marketing, operations, and merchandising teams should align promotions, staffing, and product availability with anticipated peaks and troughs.
+Post-New-Year surge drives January sales peak, with a mid-quarter slowdown highlighting seasonal and operational sensitivities. The company’s sales peaked in January 2025, with 65,000 orders generating over £500k in revenue, driven by the “Fresh Start Effect,” where increased health-conscious purchasing influences customer behaviour. 
+
+- From February to April, revenue declined for three consecutive months, hitting a Q1 low of £460k, representing a 6–8% month-on-month drop. Units sold mirrored this trend, indicating that the decline was driven by reduced customer traffic rather than pricing changes.
+- Revenue began recovering in March and May, reflecting seasonal demand patterns influenced by holidays, weekend activity, and local store traffic dynamics. This trend highlights sensitivity to both seasonality and location-specific traffic patterns, suggesting that the marketing, operations, and merchandising teams should align promotions, staffing, and product availability with anticipated peaks and troughs.
+
 Full-year performance remains strong, with AOV growth indicating success of product bundling and celebrity-endorsed offerings. 
 
 <img width="1272" height="717" alt="image" src="https://github.com/user-attachments/assets/913d3378-d6c7-4287-9c3f-216de1c7365e" />
 Figure 3
 
-Despite the early-year dip, full-year 2025 remained above the 2022–2024 baseline across all three north-star metrics: Revenue, Units Sold, and Average Order Value (AOV). Notably, AOV outperformed both Revenue and Units Sold in H1, increasing from £9.78 to £9.83 per transaction. This growth reflects Joe & the Juice’s strategic product bundling and the launch of celebrity-endorsed shakes, which encouraged higher spend per order.
-
-The stronger AOV suggests that while unit sales and overall revenue fluctuate with seasonality, per-transaction spend can be influenced by targeted product initiatives. These findings indicate that promotional strategies and premium product offerings directly impact profitability even when overall footfall varies.
+- Despite the early-year dip, full-year 2025 remained above the 2022–2024 baseline across all three north-star metrics: Revenue, Units Sold, and Average Order Value (AOV).
+- Notably, AOV outperformed both Revenue and Units Sold in H1, increasing from £9.78 to £9.83 per transaction. This growth reflects Joe & the Juice’s strategic product bundling and the launch of celebrity-endorsed shakes, which encouraged higher spend per order.
+- The stronger AOV suggests that while unit sales and overall revenue fluctuate with seasonality, per-transaction spend can be influenced by targeted product initiatives. These findings indicate that promotional strategies and premium product offerings directly impact profitability even when overall footfall varies.
 
 
 ## Product Performance
-Celebrity Shakes Lead the Pack. The analysis of individual product performance highlights that top-performing items are dominated by the Celebrity Shake line. Among the top 10 products by revenue, four are celebrity-endorsed shakes: Trust Your Gut, Big Brain Energy, Feel Good, and Hydration Station. Notably, Trust Your Gut and Big Brain Energy were launched in January 2025 and, together, have generated £266k of total revenue in H1. The remaining top performers are primarily juices and smoothies, including JOE’s Identity, Power and Avo Shake. These products demonstrate strong consumer adoption and highlight the ongoing demand for high-value, fresh, and functional beverages. The success of the celebrity-endorsed shakes indicates that strategic product launches and influencer-driven marketing can significantly impact early adoption and revenue growth.
+Celebrity Shakes Lead the Pack. 
+- The analysis of individual product performance highlights that top-performing items are dominated by the Celebrity Shake line. Among the top 10 products by revenue, four are celebrity-endorsed shakes: Trust Your Gut, Big Brain Energy, Feel Good, and Hydration Station. Notably, Trust Your Gut and Big Brain Energy were launched in January 2025 and, together, have generated £266k of total revenue in H1. 
+
+- The remaining top performers are primarily juices and smoothies, including JOE’s Identity, Power and Avo Shake. These products demonstrate strong consumer adoption and highlight the ongoing demand for high-value, fresh, and functional beverages. The success of the celebrity-endorsed shakes indicates that strategic product launches and influencer-driven marketing can significantly impact early adoption and revenue growth.
 
 <img width="1277" height="702" alt="image" src="https://github.com/user-attachments/assets/f919d6c5-bd94-4a6c-8e9b-c5743391e167" />
 Figure 4
 
 
-Category-level trends reveal that Juices and Smoothies together account for over 53% of total H1 revenue, underscoring the central role of functional beverages in Joe & The Juice’s product portfolio. Sandwiches remain a strong performer, contributing 23% of total revenue, reflecting steady demand for convenient meal options.
+- Category-level trends reveal that Juices and Smoothies together account for over 53% of total H1 revenue, underscoring the central role of functional beverages in Joe & The Juice’s product portfolio. Sandwiches remain a strong performer, contributing 23% of total revenue, reflecting steady demand for convenient meal options.
 
 <img width="587" height="291" alt="image" src="https://github.com/user-attachments/assets/c25f97af-7089-40ce-a9b5-24c00878afeb" />
 Figure 5
 
 
-Bowls and coffee products demonstrate slower sales despite their menu presence. Coffee accounts for 20% of total revenue; while order volumes are high, the average order value is only £4, reducing its overall revenue contribution. Bowls represent just 5% of sales, which can be attributed to the limited menu offering — only two bowl options are available, with JOE’s Overnight Oats Bowl being the least purchased product in H1.
+- Bowls and coffee products demonstrate slower sales despite their menu presence. Coffee accounts for 20% of total revenue; while order volumes are high, the average order value is only £4, reducing its overall revenue contribution.
+- Bowls represent just 5% of sales, which can be attributed to the limited menu offering — only two bowl options are available, with JOE’s Overnight Oats Bowl being the least purchased product in H1.
 
 ### Key Takeaways & Strategic Implications
 #### Focus on High-Value Beverages
@@ -143,11 +151,11 @@ Zooming in further, hourly performance shows when revenue peaks occur and where 
 
 Figure 10
 
-Lunchtime is the primary revenue window for most central stores, with 1 PM (hour 13) being the top performing hour, followed closely by 11 AM, 2 PM, 3 PM, and 12 PM. This highlights the importance of scheduling staff and inventory for midday rushes. (Funnel Chart: “Lunchtime — Primary Revenue Window”)
+- Lunchtime is the primary revenue window for most central stores, with 1 PM (hour 13) being the top performing hour, followed closely by 11 AM, 2 PM, 3 PM, and 12 PM. This highlights the importance of scheduling staff and inventory for midday rushes. (Funnel Chart: “Lunchtime — Primary Revenue Window”)
 
-Afternoon Lull: In Liverpool Street, Tottenham, and Dean Street, revenue tapers sharply after midday, indicating a clear afternoon dip. Soho, in contrast, maintains higher revenue levels through the afternoon, demonstrating a healthier, more evenly distributed customer flow. 
+- Afternoon Lull: In Liverpool Street, Tottenham, and Dean Street, revenue tapers sharply after midday, indicating a clear afternoon dip. Soho, in contrast, maintains higher revenue levels through the afternoon, demonstrating a healthier, more evenly distributed customer flow. 
 
-Morning Patterns: From 7 AM to 11 AM, Soho is actually the weakest performer, while Tottenham Court Road dominates the morning to early afternoon window (7 AM – 4 PM), reflecting the strong commuter-driven customer base.
+- Morning Patterns: From 7 AM to 11 AM, Soho is actually the weakest performer, while Tottenham Court Road dominates the morning to early afternoon window (7 AM – 4 PM), reflecting the strong commuter-driven customer base.
 
 ### Business Implications
 Stores like Tottenham and Liverpool may need targeted promotions or staffing adjustments during afternoon lulls to improve utilisation.
