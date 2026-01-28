@@ -51,23 +51,33 @@ This structure forms the foundation for the interactive Power BI dashboard, allo
 ## Executive Summary
 After peaking in early 2025, the company’s sales have continued to decline, with significant drops in June. Key performance indicators have mostly shown month-on-month decreases: order volume by over 5000 units, revenue by 8%, and only average order value (AOV) having a net positive. While this decline can be broadly attributed to a return to post-new-year purchasing norms, further analysis reveals location-specific patterns, product-level trends, and seasonal effects that are also influencing performance.
 Below is the overview page from the PowerBI dashboard and more examples are included throughout the report. The interactive dashboard can be downloaded here.
+<img width="1277" height="718" alt="image" src="https://github.com/user-attachments/assets/d4163eb4-4013-43b0-9898-071f329a6b4d" />
+
 Figure 2
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Sales Trend
 Post-New-Year surge drives January sales peak, with a mid-quarter slowdown highlighting seasonal and operational sensitivities. The company’s sales peaked in January 2025, with 65,000 orders generating over £500k in revenue, driven by the “Fresh Start Effect,” where increased health-conscious purchasing influences customer behaviour. From February to April, revenue declined for three consecutive months, hitting a Q1 low of £460k, representing a 6–8% month-on-month drop. Units sold mirrored this trend, indicating that the decline was driven by reduced customer traffic rather than pricing changes. Revenue began recovering in March and May, reflecting seasonal demand patterns influenced by holidays, weekend activity, and local store traffic dynamics. This trend highlights sensitivity to both seasonality and location-specific traffic patterns, suggesting that the marketing, operations, and merchandising teams should align promotions, staffing, and product availability with anticipated peaks and troughs.
-Full-year performance remains strong, with AOV growth indicating success of product bundling and celebrity-endorsed offerings. Despite the early-year dip, full-year 2025 remained above the 2022–2024 baseline across all three north-star metrics: Revenue, Units Sold, and Average Order Value (AOV). Notably, AOV outperformed both Revenue and Units Sold in H1, increasing from £9.78 to £9.83 per transaction. This growth reflects Joe & the Juice’s strategic product bundling and the launch of celebrity-endorsed shakes, which encouraged higher spend per order.
-Figure 4
+Full-year performance remains strong, with AOV growth indicating success of product bundling and celebrity-endorsed offerings. 
+
+<img width="1272" height="717" alt="image" src="https://github.com/user-attachments/assets/913d3378-d6c7-4287-9c3f-216de1c7365e" />
+
+Despite the early-year dip, full-year 2025 remained above the 2022–2024 baseline across all three north-star metrics: Revenue, Units Sold, and Average Order Value (AOV). Notably, AOV outperformed both Revenue and Units Sold in H1, increasing from £9.78 to £9.83 per transaction. This growth reflects Joe & the Juice’s strategic product bundling and the launch of celebrity-endorsed shakes, which encouraged higher spend per order.
+
 The stronger AOV suggests that while unit sales and overall revenue fluctuate with seasonality, per-transaction spend can be influenced by targeted product initiatives. These findings indicate that promotional strategies and premium product offerings directly impact profitability even when overall footfall varies.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Product Performance
 Celebrity Shakes Lead the Pack. The analysis of individual product performance highlights that top-performing items are dominated by the Celebrity Shake line. Among the top 10 products by revenue, four are celebrity-endorsed shakes: Trust Your Gut, Big Brain Energy, Feel Good, and Hydration Station. Notably, Trust Your Gut and Big Brain Energy were launched in January 2025 and, together, have generated £266k of total revenue in H1. The remaining top performers are primarily juices and smoothies, including JOE’s Identity, Power and Avo Shake. These products demonstrate strong consumer adoption and highlight the ongoing demand for high-value, fresh, and functional beverages. The success of the celebrity-endorsed shakes indicates that strategic product launches and influencer-driven marketing can significantly impact early adoption and revenue growth.
-Figure 6
+
+<img width="1277" height="702" alt="image" src="https://github.com/user-attachments/assets/f919d6c5-bd94-4a6c-8e9b-c5743391e167" />
+
 Category-level trends reveal that Juices and Smoothies together account for over 53% of total H1 revenue, underscoring the central role of functional beverages in Joe & The Juice’s product portfolio. Sandwiches remain a strong performer, contributing 23% of total revenue, reflecting steady demand for convenient meal options.
-Figure 7
+
+<img width="587" height="291" alt="image" src="https://github.com/user-attachments/assets/c25f97af-7089-40ce-a9b5-24c00878afeb" />
+
 Bowls and coffee products demonstrate slower sales despite their menu presence. Coffee accounts for 20% of total revenue; while order volumes are high, the average order value is only £4, reducing its overall revenue contribution. Bowls represent just 5% of sales, which can be attributed to the limited menu offering — only two bowl options are available, with JOE’s Overnight Oats Bowl being the least purchased product in H1.
 
 ### Key Takeaways & Strategic Implications
@@ -84,34 +94,51 @@ With Juices and Smoothies driving over half of H1 revenue, exploring new flavor 
 ## Regional Performance
 Joe & The Juice’s four London stores show clear revenue gaps that are not explained by store size alone, but by customer behavior and product preferences:
 
+<img width="1262" height="263" alt="image" src="https://github.com/user-attachments/assets/c2809b9d-88a4-4dba-ab08-ebecff2a1c0c" />
+
 - Soho leads the pack, generating £844k in revenue over H1 2025. This performance is driven by the highest average order value of £10.53, reflecting the store’s popularity with premium-priced products. The most popular category in Soho is Juice (£373k) and Smoothies (£236k), both higher-priced items, which explains the elevated AOV.
+
+<img width="1251" height="405" alt="image" src="https://github.com/user-attachments/assets/a9d378b0-5104-4b8b-ae79-af9f480ddbd2" />
 
 - Tottenham Court Road comes second, earning £713k, with an AOV of £8.81. The store’s most popular product category is Coffee (£238k), which is the lowest-priced item among top categories, partially explaining the lower AOV. Tottenham’s customer base is heavily commuter-driven, resulting in high weekday traffic but lower spending per order.
 
 - Dean Street and Liverpool Street lag behind with £687k and £677k respectively, reflecting a mix of office/residential (Dean) and financial district (Liverpool) traffic. Their average order values fall between £8.81 and £8.47, in line with the mix of products purchased. Dean Street benefits from a balanced product mix, while Liverpool Street relies heavily on lower-priced coffee, which keeps AOV at the bottom of the four stores.
-- 
+  
 ### Revenue Share Insights
 - Soho accounts for 29% of total revenue, ending with Liverpool Street at 23%, highlighting its disproportionate contribution.
 
 - Tottenham Court Road and Dean Street contribute the remaining middle 48%, indicating potential to boost revenue through product mix optimisation and targeted promotions.
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## Temporal Behaviour Patterns — Joe & The Juice Case Study
 ### Weekend vs Weekday Performance
+
 Joe & The Juice stores show distinct patterns in customer behavior depending on the day of the week, which highlights structural differences in demand across locations:
 
 - Soho and Dean Street dominate weekend traffic, together accounting for over 60% of total weekend revenue. Soho benefits from a mix of tourists and leisure-seekers, while Dean Street captures both office workers and local residents who prefer weekend visits.
+<img width="581" height="287" alt="image" src="https://github.com/user-attachments/assets/fffad87d-6112-478c-b6aa-8477325493ea" />
 
 - Tottenham Court Road and Liverpool Street rely heavily on weekday commuter traffic, with Tottenham only generating 18% of its revenue on weekends, showing a sharp drop-off outside office hours. This aligns with its location on a walk-down road with less footfall from non-native customers.
+<img width="667" height="297" alt="image" src="https://github.com/user-attachments/assets/5c158bc6-e088-45d5-893d-1d444ede231d" />
 
 ### Hour-of-Day Insights
 Zooming in further, hourly performance shows when revenue peaks occur and where opportunities lie:
+
+<img width="782" height="362" alt="image" src="https://github.com/user-attachments/assets/2a0eb1d7-df33-476c-b065-3a528cabe5cf" />
+
 Lunchtime is the primary revenue window for most central stores, with 1 PM (hour 13) being the top performing hour, followed closely by 11 AM, 2 PM, 3 PM, and 12 PM. This highlights the importance of scheduling staff and inventory for midday rushes. (Funnel Chart: “Lunchtime — Primary Revenue Window”)
-Afternoon Lull: In Liverpool Street, Tottenham, and Dean Street, revenue tapers sharply after midday, indicating a clear afternoon dip. Soho, in contrast, maintains higher revenue levels through the afternoon, demonstrating a healthier, more evenly distributed customer flow. (Line Chart: “After Midday Peaks - Store Revenue Tapers Sharply, Highlighting Afternoon Lull”)
+
+Afternoon Lull: In Liverpool Street, Tottenham, and Dean Street, revenue tapers sharply after midday, indicating a clear afternoon dip. Soho, in contrast, maintains higher revenue levels through the afternoon, demonstrating a healthier, more evenly distributed customer flow. 
+
 Morning Patterns: From 7 AM to 11 AM, Soho is actually the weakest performer, while Tottenham Court Road dominates the morning to early afternoon window (7 AM – 4 PM), reflecting the strong commuter-driven customer base.
+
 ### Business Implications
 Stores like Tottenham and Liverpool may need targeted promotions or staffing adjustments during afternoon lulls to improve utilisation.
 Soho’s ability to maintain steady afternoon revenue shows opportunity to capitalise on leisure traffic, while Dean Street could experiment with promotions to flatten the mid-afternoon dip.
 Understanding these temporal demand patterns allows for more precise staff scheduling, inventory allocation, and marketing initiatives by hour and day.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Recommendations - By Department
 Based on insights from sales trends, product performance, regional differences, and temporal behaviour patterns, the following recommendations are proposed to maximise revenue, optimise operations, and refine product strategy:
