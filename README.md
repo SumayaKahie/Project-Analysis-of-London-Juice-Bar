@@ -32,7 +32,8 @@ Contains product-level attributes such as product name, category (Juice, Smoothi
 Includes store identifiers, location, and contextual attributes (e.g., Tottenham Court Road – commuter-heavy, Soho – tourist/leisure traffic, Dean Street, Liverpool Street). Supports regional comparisons, volatility analysis, and staffing optimisation.
 ### Relationships Between Tables
 Each transaction references a product ID and a store ID, creating a one-to-many relationship.
-<img width="975" height="563" alt="image" src="https://github.com/user-attachments/assets/3f49868b-6c66-4750-a969-141c1a8ac433" />
+<img width="951" height="517" alt="image" src="https://github.com/user-attachments/assets/5e142c7d-03fd-40f3-9c7e-40d8a2764c43" />
+
 
 
 Figure 1
