@@ -124,7 +124,7 @@ Figure 7
 
 - Dean Street and Liverpool Street lag behind with £687k and £677k respectively, reflecting a mix of office/residential (Dean) and financial district (Liverpool) traffic. Their average order values fall between £8.81 and £8.47, in line with the mix of products purchased. Dean Street benefits from a balanced product mix, while Liverpool Street relies heavily on lower-priced coffee, which keeps AOV at the bottom of the four stores.
   
-### Revenue Share Insights
+#### Revenue Share Insights
 - Soho accounts for 29% of total revenue, ending with Liverpool Street at 23%, highlighting its disproportionate contribution.
 
 - Tottenham Court Road and Dean Street contribute the remaining middle 48%, indicating potential to boost revenue through product mix optimisation and targeted promotions.
@@ -158,7 +158,7 @@ Figure 10
 
 - Morning Patterns: From 7 AM to 11 AM, Soho is actually the weakest performer, while Tottenham Court Road dominates the morning to early afternoon window (7 AM – 4 PM), reflecting the strong commuter-driven customer base.
 
-### Business Implications
+##### Business Implications
 Stores like Tottenham and Liverpool may need targeted promotions or staffing adjustments during afternoon lulls to improve utilisation.
 Soho’s ability to maintain steady afternoon revenue shows opportunity to capitalise on leisure traffic, while Dean Street could experiment with promotions to flatten the mid-afternoon dip.
 Understanding these temporal demand patterns allows for more precise staff scheduling, inventory allocation, and marketing initiatives by hour and day.
@@ -166,38 +166,38 @@ Understanding these temporal demand patterns allows for more precise staff sched
 
 ## Recommendations - By Department (Table Summary Included)
 Based on insights from sales trends, product performance, regional differences, and temporal behaviour patterns, the following recommendations are proposed to maximise revenue, optimise operations, and refine product strategy:
-### Product Strategy & Promotion
-#### Capitalise on Celebrity Shakes & Top-Performing Products
+#### Product Strategy & Promotion
+##### Capitalise on Celebrity Shakes & Top-Performing Products
 - Celebrity-endorsed products, including Trust Your Gut and Big Brain Energy, along with high-performing juices and smoothies, account for a substantial share of revenue (£266k combined).
 - Recommendation: Highlight these products in marketing campaigns and bundles, particularly around seasonal or launch periods, to maintain momentum.
-#### Juices & Smoothies Drive Growth; Bowls & Coffee Underperform
+##### Juices & Smoothies Drive Growth; Bowls & Coffee Underperform
 - Juices and smoothies together contribute over 53% of H1 revenue, whereas bowls account for only 5%, and coffee, despite high unit volume, contributes just 20% due to low AOV.
 Recommendation: Introduce promotions or value bundles for bowls and coffee to increase their contribution, or consider menu adjustments to optimise the product mix.
-#### Pricing & AOV Optimisation
+##### Pricing & AOV Optimisation
 - Soho’s high AOV is driven by premium products (juices & smoothies), whereas Tottenham Court Road’s most popular product is low-value coffee.
 - Recommendation: Test premium product upsells at lower-AOV stores or introduce higher-margin combinations to increase average transaction value.
 
-### Regional & Store Strategy
-#### Leverage High Weekend Stores
+#### Regional & Store Strategy
+##### Leverage High Weekend Stores
 - Soho and Dean Street dominate weekend traffic (over 60% combined), while Tottenham and Liverpool are heavily weekday-dependent.
 - Recommendation: Deploy weekend promotions, loyalty rewards, and events at Soho and Dean Street to maximise footfall.
-#### Support Weekday-Dependent Stores
+##### Support Weekday-Dependent Stores
 - Tottenham and Liverpool’s revenue drops sharply on weekends.
 - Recommendation: Introduce weekday-targeted loyalty offers to maintain weekday dominance and consider strategic marketing to boost weekend visits (e.g., limited-time offers for walk-in customers).
 
-### Operational & Staffing Efficiency
-#### Align Staffing with Temporal Patterns
+#### Operational & Staffing Efficiency
+##### Align Staffing with Temporal Patterns
 - Hour-of-day analysis shows peak revenue at 13:00 (1 PM), with Tottenham & Liverpool tapering sharply in the afternoon, while Soho maintains steadier flow.
 - Recommendation: Adjust staff schedules to match peak hours and avoid overstaffing during low-revenue periods.
-#### Inventory Planning
+##### Inventory Planning
 - High-performing products like celebrity shakes and top juices require consistent availability, while slower-moving items can have smaller stock allocation.
 - Recommendation: Implement dynamic inventory planning based on product performance, store location, and temporal demand patterns.
 
-### Marketing & Customer Engagement
-#### Leverage High-Performing Product Launches
+#### Marketing & Customer Engagement
+##### Leverage High-Performing Product Launches
 - Launch timing, such as Trust Your Gut and Big Brain Energy in January, drives strong early-month sales.
 - Recommendation: Plan product launches strategically around known high-traffic periods, such as January or other seasonal peaks.
-#### Targeted Promotions by Store Profile
+##### Targeted Promotions by Store Profile
 - Soho’s mix of tourists and leisure customers versus Tottenham’s commuter-heavy base indicates different customer personas by location.
 - Recommendation: Tailor promotions and communications to local customer behaviour (e.g., lunchtime discounts for commuter-heavy stores, weekend bundles for leisure-heavy stores)
 
