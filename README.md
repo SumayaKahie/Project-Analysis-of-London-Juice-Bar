@@ -31,11 +31,7 @@ Contains product-level attributes such as product name, category (Juice, Smoothi
 ### Stores Table
 Includes store identifiers, location, and contextual attributes (e.g., Tottenham Court Road – commuter-heavy, Soho – tourist/leisure traffic, Dean Street, Liverpool Street). Supports regional comparisons, volatility analysis, and staffing optimisation.
 ### Relationships Between Tables
-Each transaction references a product ID and a store ID, creating a one-to-many relationship from Products → Transactions and Stores → Transactions.
-This relational structure enables multi-dimensional analysis, such as:
-Revenue by store and product category
-Month-over-month sales trends per location
-Profitability by product and category
+Each transaction references a product ID and a store ID, creating a one-to-many relationship.
 <img width="975" height="563" alt="image" src="https://github.com/user-attachments/assets/3f49868b-6c66-4750-a969-141c1a8ac433" />
 
 
