@@ -164,7 +164,7 @@ Soho’s ability to maintain steady afternoon revenue shows opportunity to capit
 Understanding these temporal demand patterns allows for more precise staff scheduling, inventory allocation, and marketing initiatives by hour and day.
 
 
-## Recommendations - By Department
+## Recommendations - By Department (Table Summary Included)
 Based on insights from sales trends, product performance, regional differences, and temporal behaviour patterns, the following recommendations are proposed to maximise revenue, optimise operations, and refine product strategy:
 ### Product Strategy & Promotion
 #### Capitalise on Celebrity Shakes & Top-Performing Products
