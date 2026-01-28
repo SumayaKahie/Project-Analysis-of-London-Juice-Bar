@@ -26,4 +26,18 @@ Each script is organised by business question to ensure reproducibility and clar
 ## 6. Trend & Growth Analysis
 - Identify product and store growth trends over time
 
+## 7. Quality Checks
+Key checks include:
+
+- Missing values in key columns
+- Duplicate primary keys
+- Revenue consistency
+- Negative values in numeric columns
+- Referential integrity between transactions, products, and stores
+- Date range sanity
+- Category coverage
+- Zero-value transactions
+
+These checks ensure that the data is clean, complete, and reliable before analysis.
+
 Each query includes business insight comments to explain analytical purpose.
