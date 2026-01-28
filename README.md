@@ -89,6 +89,7 @@ Figure 4
 - Category-level trends reveal that Juices and Smoothies together account for over 53% of total H1 revenue, underscoring the central role of functional beverages in Joe & The Juice’s product portfolio. Sandwiches remain a strong performer, contributing 23% of total revenue, reflecting steady demand for convenient meal options.
 
 <img width="587" height="291" alt="image" src="https://github.com/user-attachments/assets/c25f97af-7089-40ce-a9b5-24c00878afeb" />
+
 Figure 5
 
 
