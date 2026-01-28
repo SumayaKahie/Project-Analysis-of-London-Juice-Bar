@@ -1,0 +1,23 @@
+# Joe & The Juice — Synthetic & Anonymised Data Pipeline
+
+This Python script generates anonymised, synthetic transactional data for Joe & The Juice for analysis and dashboarding purposes. It was designed to replicate realistic sales, product, and store dynamics while protecting sensitive business information.
+
+---
+
+## 1️⃣ Purpose
+
+- Generate a **synthetic dataset** of transactions, products, and stores for analytics and reporting.
+- **Anonymise sensitive data** while preserving realistic sales patterns.
+- Provide a **reproducible workflow** for stakeholders to replicate analysis.
+- Support **Power BI dashboards** and SQL analytics queries with synthetic but realistic data.
+
+---
+
+## 2️⃣ Libraries Used
+
+```python
+import pandas as pd
+import numpy as np
+from datetime import datetime, timedelta
+import random
+import os
