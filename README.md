@@ -6,15 +6,15 @@ Joe & The Juice is a premium urban food and beverage retailer operating across h
 The company has significant amounts of data on its sales, marketing efforts and operational efficiency and product offerings that has previously been underutilised. This project thoroughly analyses transactional sales data to identify key revenue drivers, growth opportunities, and operational risks across Joe & The Juice’s retail network.
 
 ### Core Business Areas Analysed
-Insights and recommendations are provided across four core business areas:
+- Insights and recommendations are provided across four core business areas:
 #### Revenue & Demand Trends
-Understanding how sales evolve over time and identifying seasonal and behavioural patterns focusing on Revenue, Order Volume and Order Value (AOV).
+- Understanding how sales evolve over time and identifying seasonal and behavioural patterns focusing on Revenue, Order Volume and Order Value (AOV).
 #### Product Performance
-An analysis of Joe’s various product lines, evaluating which products drive revenue versus volume and identifying underperforming items.
+- An analysis of Joe’s various product lines, evaluating which products drive revenue versus volume and identifying underperforming items.
 #### Store-Level Performance
-Comparing store growth, stability, and revenue concentration across locations.
+- Comparing store growth, stability, and revenue concentration across locations.
 #### Profitability & Efficiency
-Assessing margin dynamics and cost drivers to highlight opportunities for optimisation.
+- Assessing margin dynamics and cost drivers to highlight opportunities for optimisation.
 
 An interactive Power BI dashboard can be provided upon request through a shared link.
 The SQL queries utlisied to inspect and perform quality checks, clean, organise, and prepare data for the dashboard can be found here: https://github.com/SumayaKahie/Juice_bar_ecommerce_analytics/blob/main/SQL/07_quality_checks.sql
@@ -42,14 +42,14 @@ Figure 1
 
 ### Analytical Value
 #### Time dimension
-The six-month period provides a detailed view of seasonality, post-New Year trends, and weekend vs. weekday patterns.
+- The six-month period provides a detailed view of seasonality, post-New Year trends, and weekend vs. weekday patterns.
 
 #### Revenue and profit insight
-Cost of goods allows calculation of margins, supporting strategic product prioritization and pricing analysis.
+- Cost of goods allows calculation of margins, supporting strategic product prioritization and pricing analysis.
 
 #### Consumer behavior insight
-Transaction-level granularity enables evaluation of bundling effects, upsell success, and AOV trends.
-This structure forms the foundation for the interactive Power BI dashboard, allowing stakeholders to explore sales trends, product performance, and store-level insights efficiently. A visual model diagram can be inserted here to show the tables and their relationships, providing a clear overview for executive stakeholders.
+- Transaction-level granularity enables evaluation of bundling effects, upsell success, and AOV trends.
+- This structure forms the foundation for the interactive Power BI dashboard, allowing stakeholders to explore sales trends, product performance, and store-level insights efficiently. A visual model diagram can be inserted here to show the tables and their relationships, providing a clear overview for executive stakeholders.
 
 
 ## Executive Summary
