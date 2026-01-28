@@ -54,7 +54,8 @@ This structure forms the foundation for the interactive Power BI dashboard, allo
 
 ## Executive Summary
 After peaking in early 2025, the company’s sales have continued to decline, with significant drops in June. Key performance indicators have mostly shown month-on-month decreases: order volume by over 5000 units, revenue by 8%, and only average order value (AOV) having a net positive. While this decline can be broadly attributed to a return to post-new-year purchasing norms, further analysis reveals location-specific patterns, product-level trends, and seasonal effects that are also influencing performance.
-Below is the overview page from the PowerBI dashboard and more examples are included throughout the report. The interactive dashboard can be downloaded here.
+Below is the overview page from the PowerBI dashboard and more examples are included throughout the report. The interactive dashboard can be downloaded upon request.
+
 <img width="1277" height="718" alt="image" src="https://github.com/user-attachments/assets/d4163eb4-4013-43b0-9898-071f329a6b4d" />
 Figure 2
 
