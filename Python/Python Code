@@ -1,0 +1,187 @@
+// Ran on Pycharm
+
+import pandas as pd
+import numpy as np
+from datetime import datetime, timedelta
+import random
+
+import os
+print("Current working directory:", os.getcwd())
+
+
+# -------------------------------
+# 1️⃣ PRODUCTS TABLE
+# -------------------------------
+
+products_data = [
+    # Product_ID, Name, Category, Size_oz, Price, Cost%, Prep_Time_sec
+    ['PRD_001', 'Feel Good', 'Juice', 16, 10.80, 0.40, 120],
+    ['PRD_002', 'JOE’s Identity', 'Juice', 16, 10.80, 0.40, 120],
+    ['PRD_003', 'JOE’s Green Mile', 'Juice', 16, 10.80, 0.40, 120],
+    ['PRD_004', 'Green Shield', 'Juice', 16, 10.80, 0.40, 120],
+    ['PRD_005', 'Hydration Station', 'Juice', 16, 10.80, 0.40, 120],
+    ['PRD_006', 'Herb Tonic', 'Juice', 16, 10.80, 0.40, 120],
+    ['PRD_007', 'Go Away DOC', 'Juice', 16, 8.50, 0.40, 90],
+    ['PRD_008', 'Sports Juice', 'Juice', 16, 8.50, 0.40, 90],
+    ['PRD_009', 'Prince of Green', 'Juice', 16, 8.50, 0.40, 90],
+    ['PRD_010', 'Green Tonic', 'Juice', 16, 8.50, 0.40, 90],
+    ['PRD_011', 'Pick Me Up', 'Juice', 16, 8.50, 0.40, 90],
+    ['PRD_012', 'Hell Of A Nerve', 'Juice', 16, 8.50, 0.40, 90],
+    ['PRD_013', 'Stress Down', 'Juice', 16, 8.50, 0.40, 90],
+    ['PRD_014', 'Iron Man', 'Juice', 16, 8.50, 0.40, 90],
+    ['PRD_015', 'Power Shake', 'Smoothie', 16, 8.50, 0.45, 150],
+    ['PRD_016', 'Coffee Shake', 'Smoothie', 16, 8.50, 0.45, 150],
+    ['PRD_017', 'Avo Shake', 'Smoothie', 16, 8.50, 0.45, 150],
+    ['PRD_018', 'Trust Your Gut', 'Smoothie', 16, 11.10, 0.45, 180],
+    ['PRD_019', 'Big Brain Energy', 'Smoothie', 16, 11.10, 0.45, 180],
+    ['PRD_020', 'Americano 8oz', 'Coffee', 8, 3.70, 0.25, 60],
+    ['PRD_021', 'Americano 12oz', 'Coffee', 12, 4.10, 0.25, 60],
+    ['PRD_022', 'Iced Americano 12oz', 'Coffee', 12, 4.10, 0.25, 60],
+    ['PRD_023', 'Iced Americano 16oz', 'Coffee', 16, 4.40, 0.25, 60],
+    ['PRD_024', 'Flat White', 'Coffee', 12, 4.60, 0.25, 90],
+    ['PRD_025', 'Cappuccino 12oz', 'Coffee', 12, 5.20, 0.25, 90],
+    ['PRD_026', 'Latte 16oz', 'Coffee', 16, 5.60, 0.25, 90],
+    ['PRD_027', 'Iced Latte 16oz', 'Coffee', 16, 5.60, 0.25, 90],
+    ['PRD_028', 'Double Espresso', 'Coffee', 4, 3.60, 0.25, 45],
+    ['PRD_029', 'Espresso Macchiato', 'Coffee', 4, 4.10, 0.25, 45],
+    ['PRD_030', 'Matcha Oat Latte 16oz', 'Coffee', 16, 5.95, 0.25, 120],
+    ['PRD_031', 'Iced Matcha Oat Latte 16oz', 'Coffee', 16, 5.95, 0.25, 120],
+    ['PRD_032', 'Tunacado Sandwich', 'Sandwich', None, 9.70, 0.50, 180],
+    ['PRD_033', 'Spicy Tuna Sandwich', 'Sandwich', None, 9.70, 0.50, 180],
+    ['PRD_034', 'JOE’s Club Sandwich', 'Sandwich', None, 9.70, 0.50, 180],
+    ['PRD_035', 'Avocado Sandwich', 'Sandwich', None, 9.70, 0.50, 180],
+    ['PRD_036', 'Turkey Sandwich', 'Sandwich', None, 9.70, 0.50, 180],
+    ['PRD_037', 'Vegan Avocado Sandwich', 'Sandwich', None, 9.70, 0.50, 180],
+    ['PRD_038', 'Serrano Sandwich', 'Sandwich', None, 9.70, 0.50, 180],
+    ['PRD_039', 'The Steak Sandwich', 'Sandwich', None, 12.00, 0.50, 180],
+    ['PRD_040', 'JOE HO HO Sandwich', 'Sandwich', None, 11.95, 0.50, 180],
+    ['PRD_041', 'PHAT JOE Sandwich', 'Sandwich', None, 12.00, 0.50, 180],
+    ['PRD_042', 'Acai Bowl', 'Bowl', None, 10.60, 0.45, 120],
+    ['PRD_043', 'JOE’s Overnight Oats', 'Bowl', None, 5.90, 0.45, 90],
+    ['PRD_044', 'Yoghurt Bowl', 'Bowl', None, 5.90, 0.45, 90],
+    ['PRD_045', 'JOE’s Protein Bar', 'Snack', None, 2.75, 0.50, 30],
+    ['PRD_046', 'JOE’s Vanilla Raw Bar', 'Snack', None, 2.75, 0.50, 30],
+    ['PRD_047', 'Protein Peanut Butter Cups', 'Snack', None, 3.29, 0.50, 30],
+    ['PRD_048', 'Mango Chips', 'Snack', None, 3.29, 0.50, 30],
+    ['PRD_049', 'Caramelised Sesame Peanuts', 'Snack', None, 3.29, 0.50, 30],
+    ['PRD_050', 'Protein Chips', 'Snack', None, 2.45, 0.50, 30],
+]
+
+products_df = pd.DataFrame(products_data, columns=[
+    'product_id', 'product_name', 'category', 'size_oz',
+    'base_price_gbp', 'cost_pct', 'prep_time_seconds'
+])
+
+# Calculate base_cost
+products_df['base_cost_gbp'] = products_df['base_price_gbp'] * products_df['cost_pct']
+
+# Drop cost_pct column
+products_df.drop(columns=['cost_pct'], inplace=True)
+
+# -------------------------------
+# 2️⃣ STORES TABLE
+# -------------------------------
+
+stores_data = [
+    ['STR_01', 'Tottenham Court Road', 4000, 5000, 2000, 3000],  # weekday_low/high, weekend_low/high
+    ['STR_02', 'Dean Street', 3000, 4000, 4000, 5000],
+    ['STR_03', 'Liverpool Street', 3000, 5000, 2000, 4000],
+    ['STR_04', 'Soho', 4000, 5000, 4000, 6000],
+]
+
+stores_df = pd.DataFrame(stores_data, columns=[
+    'store_id', 'store_name',
+    'weekday_revenue_min', 'weekday_revenue_max',
+    'weekend_revenue_min', 'weekend_revenue_max'
+])
+
+# -------------------------------
+# 3️⃣ TRANSACTIONS TABLE
+# -------------------------------
+
+# Settings
+start_date = datetime(2025, 1, 1)
+end_date = datetime(2025, 6, 30)
+dates = pd.date_range(start=start_date, end=end_date)
+
+transaction_rows = []
+transaction_id = 1
+
+# Simple store product bias (weights sum to 1)
+store_product_bias = {
+    'STR_01': {'Coffee': 0.5, 'Juice': 0.2, 'Smoothie':0.1, 'Sandwich':0.15, 'Bowl':0.05, 'Snack':0.0},
+    'STR_02': {'Coffee': 0.3, 'Juice': 0.3, 'Smoothie':0.2, 'Sandwich':0.15, 'Bowl':0.05, 'Snack':0.0},
+    'STR_03': {'Coffee':0.35, 'Juice':0.2, 'Smoothie':0.1, 'Sandwich':0.3, 'Bowl':0.05, 'Snack':0.0},
+    'STR_04': {'Coffee':0.2, 'Juice':0.4, 'Smoothie':0.25, 'Sandwich':0.1, 'Bowl':0.05, 'Snack':0.0},
+}
+
+# Generate transactions
+for date in dates:
+    day_of_week = date.weekday()  # 0=Monday, 6=Sunday
+    is_weekend = day_of_week >= 5
+
+    for idx, store in stores_df.iterrows():
+        store_id = store['store_id']
+        # pick revenue target
+        if is_weekend:
+            daily_target = random.randint(store['weekend_revenue_min'], store['weekend_revenue_max'])
+        else:
+            daily_target = random.randint(store['weekday_revenue_min'], store['weekday_revenue_max'])
+
+        total_sales = 0
+        while total_sales < daily_target:
+            # Pick product category by bias
+            categories = list(store_product_bias[store_id].keys())
+            weights = list(store_product_bias[store_id].values())
+            chosen_category = np.random.choice(categories, p=weights)
+
+            # Pick random product from that category
+            available_products = products_df[products_df['category'] == chosen_category]
+            product = available_products.sample(n=1).iloc[0]
+
+            # Quantity (1–2 typical)
+            quantity = np.random.choice([1,1,2,2,3])
+
+            # Price with slight randomness ±5%
+            unit_price = round(product['base_price_gbp'] * random.uniform(0.95, 1.00), 2)
+
+
+            # Discount (mostly 0)
+            discount_pct = np.random.choice([0,0,0,0.1,0.15], p=[0.7,0.1,0.1,0.05,0.05])
+
+            gross_sales = unit_price * quantity
+            net_sales = gross_sales * (1 - discount_pct)
+            cost_of_goods = product['base_cost_gbp'] * quantity
+            gross_profit = net_sales - cost_of_goods
+            margin_pct = gross_profit / net_sales if net_sales>0 else 0
+
+            # Hour of day randomised: peak hours
+            if chosen_category in ['Coffee', 'Bowl']:
+                hour_of_day = np.random.choice(range(7,11))  # morning peak
+            elif chosen_category in ['Juice','Smoothie']:
+                hour_of_day = np.random.choice(range(11,19))  # daytime
+            else:
+                hour_of_day = np.random.choice(range(11,16))  # lunch sandwiches/snacks
+
+            transaction_rows.append([
+                f'TXN_{transaction_id:06d}', date.date(), hour_of_day, day_of_week, is_weekend,
+                store_id, product['product_id'], quantity, unit_price, discount_pct,
+                gross_sales, net_sales, cost_of_goods, gross_profit, margin_pct
+            ])
+
+            total_sales += net_sales
+            transaction_id += 1
+
+# Build transactions dataframe
+transactions_df = pd.DataFrame(transaction_rows, columns=[
+    'transaction_id','transaction_date','hour_of_day','day_of_week','is_weekend',
+    'store_id','product_id','quantity_sold','unit_price_gbp','discount_pct',
+    'gross_sales_gbp','net_sales_gbp','cost_of_goods_gbp','gross_profit_gbp','margin_pct'
+])
+
+# -------------------------------
+# 4️⃣ EXPORT CSV
+# -------------------------------
+products_df.to_csv('products.csv', index=False)
+stores_df.to_csv('stores.csv', index=False)
+transactions_df.to_csv('transactions.csv', index=False)
