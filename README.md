@@ -96,14 +96,14 @@ Figure 5
 - Bowls and coffee products demonstrate slower sales despite their menu presence. Coffee accounts for 20% of total revenue; while order volumes are high, the average order value is only £4, reducing its overall revenue contribution.
 - Bowls represent just 5% of sales, which can be attributed to the limited menu offering — only two bowl options are available, with JOE’s Overnight Oats Bowl being the least purchased product in H1.
 
-### Key Takeaways & Strategic Implications
-#### Focus on High-Value Beverages
+#### Key Takeaways & Strategic Implications
+##### Focus on High-Value Beverages
 The strong performance of Celebrity Shakes and functional juices suggests a continued investment in premium, health-oriented products and potential for further celebrity or influencer partnerships.
 
-#### Promote Underperforming Products
+##### Promote Underperforming Products
 Low-revenue categories like Bowls and Coffee could benefit from bundling or promotional strategies to increase visibility and unit sales.
 
-#### Category Expansion Opportunities
+##### Category Expansion Opportunities
 With Juices and Smoothies driving over half of H1 revenue, exploring new flavor profiles, seasonal specials, or limited-time launches could further strengthen growth.
 
 
