@@ -98,13 +98,13 @@ Figure 5
 
 #### Key Takeaways & Strategic Implications
 ##### Focus on High-Value Beverages
-The strong performance of Celebrity Shakes and functional juices suggests a continued investment in premium, health-oriented products and potential for further celebrity or influencer partnerships.
+- The strong performance of Celebrity Shakes and functional juices suggests a continued investment in premium, health-oriented products and potential for further celebrity or influencer partnerships.
 
 ##### Promote Underperforming Products
-Low-revenue categories like Bowls and Coffee could benefit from bundling or promotional strategies to increase visibility and unit sales.
+- Low-revenue categories like Bowls and Coffee could benefit from bundling or promotional strategies to increase visibility and unit sales.
 
 ##### Category Expansion Opportunities
-With Juices and Smoothies driving over half of H1 revenue, exploring new flavor profiles, seasonal specials, or limited-time launches could further strengthen growth.
+- With Juices and Smoothies driving over half of H1 revenue, exploring new flavor profiles, seasonal specials, or limited-time launches could further strengthen growth.
 
 
 ## Regional Performance
