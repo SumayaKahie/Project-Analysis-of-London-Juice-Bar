@@ -18,7 +18,9 @@ Assessing margin dynamics and cost drivers to highlight opportunities for optimi
 
 An interactive Power BI dashboard can be provided upon request through a shared link.
 The SQL queries utlisied to inspect and perform quality checks, clean, organise, and prepare data for the dashboard can be found here: https://github.com/SumayaKahie/Juice_bar_ecommerce_analytics/blob/main/SQL/07_quality_checks.sql
-Targeted SQL queries regarding various business questions can be found here: https://github.com/SumayaKahie/Juice_bar_ecommerce_analytics/tree/main/SQL
+
+Targeted SQL queries regarding various business questions can be found here: 
+https://github.com/SumayaKahie/Juice_bar_ecommerce_analytics/tree/main/SQL
 
 ## Dataset Overview 
 The analysis is based on over 200,000 transaction records spanning the H1 period from January 2025 to June 2025, providing a six-month view of sales and consumer behavior across Joe & The Juice’s retail network. The dataset is organized into three primary tables, which are interconnected to provide a comprehensive view of sales, product performance, and store-level profitability:
