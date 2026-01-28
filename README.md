@@ -33,7 +33,8 @@ This relational structure enables multi-dimensional analysis, such as:
 Revenue by store and product category
 Month-over-month sales trends per location
 Profitability by product and category
-
+<img width="780" height="682" alt="image" src="https://github.com/user-attachments/assets/76e1ace8-e681-46f2-bbc7-beb7c2a53934" />
+Figure 1
 
 ### Analytical Value
 #### Time dimension
