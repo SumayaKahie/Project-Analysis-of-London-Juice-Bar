@@ -201,3 +201,12 @@ Recommendation: Introduce promotions or value bundles for bowls and coffee to in
 - Soho’s mix of tourists and leisure customers versus Tottenham’s commuter-heavy base indicates different customer personas by location.
 - Recommendation: Tailor promotions and communications to local customer behaviour (e.g., lunchtime discounts for commuter-heavy stores, weekend bundles for leisure-heavy stores)
 
+| Area               | Key Recommendation                                                     | Expected Outcome                                     |
+|------------------- |---------------------------------------------------------------------   |------------------------------------------------------|
+| Product Strategy   | Focus on celebrity shakes & juices; introduce bundles and upsells      | Increase revenue, AOV, and customer engagement       |
+| Regional Strategy  | Tailored promotions for high-weekend stores & weekday-focused stores   | Maximise store-specific revenue potential            |
+| Operations         | Align staffing and inventory with peak hours and top-selling products  | Reduce waste and optimise staffing efficiency        |
+| Marketing          | Target promotions by store customer profile and seasonal launches      | Boost sales and enhance customer retention           |
+| Strategic Planning | Monitor via Power BI; pilot new initiatives                            | Ensure data-driven decisions and measurable results  |
+
+
