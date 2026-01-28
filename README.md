@@ -128,16 +128,19 @@ Joe & The Juice stores show distinct patterns in customer behavior depending on 
 
 - Soho and Dean Street dominate weekend traffic, together accounting for over 60% of total weekend revenue. Soho benefits from a mix of tourists and leisure-seekers, while Dean Street captures both office workers and local residents who prefer weekend visits.
 <img width="581" height="287" alt="image" src="https://github.com/user-attachments/assets/fffad87d-6112-478c-b6aa-8477325493ea" />
+
 Figure 8
 
 - Tottenham Court Road and Liverpool Street rely heavily on weekday commuter traffic, with Tottenham only generating 18% of its revenue on weekends, showing a sharp drop-off outside office hours. This aligns with its location on a walk-down road with less footfall from non-native customers.
 <img width="667" height="297" alt="image" src="https://github.com/user-attachments/assets/5c158bc6-e088-45d5-893d-1d444ede231d" />
+
 Figure 9
 
 ### Hour-of-Day Insights
 Zooming in further, hourly performance shows when revenue peaks occur and where opportunities lie:
 
 <img width="782" height="362" alt="image" src="https://github.com/user-attachments/assets/2a0eb1d7-df33-476c-b065-3a528cabe5cf" />
+
 Figure 10
 
 Lunchtime is the primary revenue window for most central stores, with 1 PM (hour 13) being the top performing hour, followed closely by 11 AM, 2 PM, 3 PM, and 12 PM. This highlights the importance of scheduling staff and inventory for midday rushes. (Funnel Chart: “Lunchtime — Primary Revenue Window”)
