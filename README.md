@@ -36,15 +36,13 @@ Each transaction references a product ID and a store ID, creating a one-to-many 
 
 
 ### Analytical Value
-#### Time dimension
-- The six-month period provides a detailed view of seasonality, post-New Year trends, and weekend vs. weekday patterns.
+| Stakeholder Need                             | How the Analysis Supports It                                                                                     | Business Decisions Enabled                                                                                     |
+| -------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| **Understand When Revenue Happens**          | Time-based analysis highlights seasonal shifts, post–New Year trends, and weekday vs weekend demand patterns.    | Optimise staffing schedules, plan promotions around peak demand, and improve revenue forecasting accuracy.     |
+| **Identify What Actually Makes Money**       | Revenue and cost-of-goods analysis enables margin tracking across products and categories.                       | Prioritise high-margin items, refine pricing strategies, and optimise product mix for profitability.           |
+| **Understand Customer Purchasing Behaviour** | Transaction-level granularity reveals bundling trends, upsell performance, and average order value drivers.      | Design targeted promotions, improve menu combinations, and increase transaction value.                         |
+| **Enable Fast, Data-Driven Decisions**       | Interactive Power BI dashboard allows leaders to explore store, product, and time-based performance dynamically. | Support operational planning, executive reporting, and ongoing performance monitoring without manual analysis. |
 
-#### Revenue and profit insight
-- Cost of goods allows calculation of margins, supporting strategic product prioritisation and pricing analysis.
-
-#### Consumer behavior insight
-- Transaction-level granularity enables evaluation of bundling effects, upsell success, and AOV trends.
-- This structure forms the foundation for the interactive Power BI dashboard, allowing stakeholders to explore sales trends, product performance, and store-level insights efficiently.
 
 
 ## Executive Summary
