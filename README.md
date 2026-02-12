@@ -26,7 +26,7 @@ Finally, for those who would like to recreate this dataset, the Python script ca
 https://github.com/SumayaKahie/Project-Analysis-of-London-Juice-Bar/tree/main/Python
 
 ## Dataset Overview 
-The analysis is based on over 200,000 transaction records spanning the H1 period from January 2025 to June 2025, providing a six-month view of sales and consumer behavior across Joe & The Juice’s retail network. The dataset is organized into three primary tables, which are interconnected to provide a comprehensive view of sales, product performance, and store-level profitability:
+The analysis is based on over 200,000 transaction records spanning the H1 period from January 2025 to June 2025, providing a six-month view of sales and consumer behavior across Joe & The Juice’s retail network. The dataset is organized into three primary tables, which are interconnected to provide a comprehensive view of sales, product performance, and store-level profitability.
 ### Transactions Table
 Captures transaction-level details including revenue, quantity sold, unit price, cost of goods, and timestamp of purchase. Each record represents a single product sold in a store at a specific time, enabling granular analysis of sales trends, profitability, and time-of-day performance.
 ### Products Table
