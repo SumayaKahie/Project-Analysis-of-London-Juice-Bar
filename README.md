@@ -33,6 +33,13 @@ Captures transaction-level details including revenue, quantity sold, unit price,
 Contains product-level attributes such as product name, category (Juice, Smoothie, Coffee, Sandwich, Bowl), and pricing. This allows analysis of product performance, strategic vs. underperforming items, and category-level revenue contributions.
 ### Stores Table
 Includes store identifiers, location, and contextual attributes (e.g., Tottenham Court Road – commuter-heavy, Soho – tourist/leisure traffic, Dean Street, Liverpool Street). Supports regional comparisons, volatility analysis, and staffing optimisation.
+
+| Table Name       | Description                                                                                            | Key Fields                                                                    | Analysis Use Cases                                                                           |
+| ---------------- | ------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| **Transactions** | Transaction-level sales data. Each row represents a single product sold in a store at a specific time. | store_id, product_id, revenue, quantity, unit_price, cost_of_goods, timestamp | Sales trends, profitability analysis, peak hours, demand patterns                            |
+| **Products**     | Product attributes and categorisation information.                                                     | product_name, category (Juice, Smoothie, Coffee, Sandwich, Bowl), price       | Product performance, category revenue mix, pricing strategy, identifying top/underperformers |
+| **Stores**       | Store-level information and contextual location details.                                               | store_id, location, store_context (e.g., commuter, tourist, leisure areas)    | Regional comparisons, revenue volatility, staffing optimisation, store profitability         |
+
 ### Relationships Between Tables
 Each transaction references a product ID and a store ID, creating a one-to-many relationship.
 <img width="951" height="517" alt="image" src="https://github.com/user-attachments/assets/5e142c7d-03fd-40f3-9c7e-40d8a2764c43" />
