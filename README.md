@@ -14,13 +14,11 @@ Joe & The Juice is a premium urban food and beverage retailer operating across h
 | **Profitability & Efficiency** | Analyses margins, operational costs, and efficiency opportunities to improve financial performance and resource allocation.                             | Gross Margin, Cost of Goods Sold (COGS), Profit per Product/Store, Operational Efficiency Metrics | Staffing optimisation, inventory planning, cost control, operational improvements              |
 
 ### Accessing Data/Code
-An interactive **Power BI dashboard** can be provided upon request through a shared link.
+- An interactive **Power BI dashboard** can be provided upon request through a shared link.
 The SQL queries utlisied to inspect and perform quality checks, clean, organise, and prepare data for the dashboard can be found here: https://github.com/SumayaKahie/Juice_bar_ecommerce_analytics/blob/main/SQL/07_quality_checks.sql
-
-Targeted **SQL queries** regarding various business questions can be found here: 
+- Targeted **SQL queries** regarding various business questions can be found here: 
 https://github.com/SumayaKahie/Juice_bar_ecommerce_analytics/tree/main/SQL
-
-Finally, for those who would like to recreate this dataset, the **Python script** can be accessed here:
+- Finally, for those who would like to recreate this dataset, the **Python script** can be accessed here:
 https://github.com/SumayaKahie/Project-Analysis-of-London-Juice-Bar/tree/main/Python
 
 ## Dataset Overview 
