@@ -27,12 +27,6 @@ https://github.com/SumayaKahie/Project-Analysis-of-London-Juice-Bar/tree/main/Py
 
 ## Dataset Overview 
 The analysis is based on over 200,000 transaction records spanning the H1 period from January 2025 to June 2025, providing a six-month view of sales and consumer behavior across Joe & The Juice’s retail network. The dataset is organized into three primary tables, which are interconnected to provide a comprehensive view of sales, product performance, and store-level profitability.
-### Transactions Table
-Captures transaction-level details including revenue, quantity sold, unit price, cost of goods, and timestamp of purchase. Each record represents a single product sold in a store at a specific time, enabling granular analysis of sales trends, profitability, and time-of-day performance.
-### Products Table
-Contains product-level attributes such as product name, category (Juice, Smoothie, Coffee, Sandwich, Bowl), and pricing. This allows analysis of product performance, strategic vs. underperforming items, and category-level revenue contributions.
-### Stores Table
-Includes store identifiers, location, and contextual attributes (e.g., Tottenham Court Road – commuter-heavy, Soho – tourist/leisure traffic, Dean Street, Liverpool Street). Supports regional comparisons, volatility analysis, and staffing optimisation.
 
 | Table Name       | Description                                                                                            | Key Fields                                                                    | Analysis Use Cases                                                                           |
 | ---------------- | ------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
