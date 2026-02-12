@@ -36,8 +36,8 @@ The analysis is based on over 200,000 transaction records spanning the H1 period
 
 ### Relationships Between Tables
 Each transaction references a product ID and a store ID, creating a one-to-many relationship.
-<img width="951" height="517" alt="image" src="https://github.com/user-attachments/assets/5e142c7d-03fd-40f3-9c7e-40d8a2764c43" />
-Figure 1
+<img width="751" height="317" alt="image" src="https://github.com/user-attachments/assets/5e142c7d-03fd-40f3-9c7e-40d8a2764c43" />
+
 
 ### Analytical Value
 #### Time dimension
