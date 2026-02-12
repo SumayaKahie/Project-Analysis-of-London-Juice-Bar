@@ -57,6 +57,7 @@ Below is the overview page from the PowerBI dashboard and more examples are incl
 
 
 ## Sales Trends
+**Early-Year Health Trends Trigger Revenue Spike, Exposing Seasonal Volatility and Operational Levers for Growth.**
 Post-New-Year surge drives January sales peak, with a mid-quarter slowdown highlighting seasonal and operational sensitivities. The company’s sales peaked in January 2025, with 65,000 orders generating over £500k in revenue, driven by the “Fresh Start Effect,” where increased health-conscious purchasing influences customer behaviour. 
 
 - From February to April, revenue declined for three consecutive months, hitting a **Q1 low of £460k**, representing a **6–8% month-on-month drop**. Units sold mirrored this trend, indicating that the decline was driven by reduced customer traffic rather than pricing changes.
@@ -106,6 +107,7 @@ Full-year performance remains strong, with AOV growth indicating success of prod
 
 
 ## Regional Performance
+**Regional Revenue Gaps Reveal the Real Driver: Product Mix and Customer Intent - Not Store Size.**
 Joe & The Juice’s four London stores show clear revenue gaps that are not explained by store size alone, but by customer behavior and product preferences:
 
 <img width="1262" height="263" alt="image" src="https://github.com/user-attachments/assets/c2809b9d-88a4-4dba-ab08-ebecff2a1c0c" />
@@ -126,15 +128,13 @@ Joe & The Juice’s four London stores show clear revenue gaps that are not expl
   
 #### Revenue Share Insights
 - Soho accounts for 29% of total revenue, ending with Liverpool Street at 23%, highlighting its disproportionate contribution.
-
 - Tottenham Court Road and Dean Street contribute the remaining middle 48%, indicating potential to boost revenue through product mix optimisation and targeted promotions.
 
 
 ## Temporal Behaviour Patterns  
+**Temporal Demand Patterns Reveal Structural Revenue Windows - From Commuter Morning Peaks to Leisure-Driven Weekend Surges.**
+
 ### Weekend vs Weekday Performance
-
-Joe & The Juice stores show distinct patterns in customer behavior depending on the day of the week, which highlights structural differences in demand across locations:
-
 - Soho and Dean Street dominate weekend traffic, together accounting for over **60% of total weekend revenue**. Soho benefits from a mix of tourists and leisure-seekers, while Dean Street captures both office workers and local residents who prefer weekend visits.
 <img width="581" height="287" alt="image" src="https://github.com/user-attachments/assets/fffad87d-6112-478c-b6aa-8477325493ea" />
 
@@ -153,9 +153,7 @@ Zooming in further, hourly performance shows when revenue peaks occur and where 
 *Figure 10*
 
 - Lunchtime is the primary revenue window for most central stores, with **1 PM (hour 13) being the top performing hour**, followed closely by 11 AM, 2 PM, 3 PM, and 12 PM. This highlights the importance of scheduling staff and inventory for midday rushes. (Funnel Chart: “Lunchtime — Primary Revenue Window”)
-
 - Afternoon Lull: In Liverpool Street, Tottenham, and Dean Street, revenue tapers sharply after midday, indicating a clear afternoon dip. Soho, in contrast, maintains higher revenue levels through the afternoon, demonstrating a healthier, more evenly distributed customer flow. 
-
 - Morning Patterns: From 7 AM to 11 AM, Soho is actually the weakest performer, while **Tottenham Court Road dominates the morning** to early afternoon window (7 AM – 4 PM), reflecting the strong commuter-driven customer base.
 
 ##### Business Implications
