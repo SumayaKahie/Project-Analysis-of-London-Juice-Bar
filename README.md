@@ -124,6 +124,7 @@ Joe & The Juice’s four London stores show clear revenue gaps that are not expl
 - Tottenham Court Road and Dean Street contribute the remaining middle 48%, indicating potential to boost revenue through product mix optimisation and targeted promotions.
 
 **Business Implications**
+
 Regional performance across the four London stores reveals that revenue differences are shaped less by physical footprint and more by customer intent and product mix. Soho’s leading position is driven by consistently higher average order values and strong demand for premium juices and smoothies, reflecting a leisure-oriented customer base willing to spend more per visit. In contrast, Tottenham Court Road’s commuter-heavy traffic generates high transaction volume but lower spend per order due to a reliance on lower-priced coffee products. Dean Street and Liverpool Street sit between these extremes, with performance influenced by a balance of office, residential, and financial district customers, though Liverpool Street’s heavier dependence on low-value items suppresses overall revenue potential. Collectively, these patterns highlight how regional customer behaviour and purchasing preferences shape commercial outcomes, reinforcing the importance of aligning product mix with local demand dynamics.
 
 
