@@ -1,5 +1,5 @@
 # Joe & The Juice: Sales, Product and Store Performance Analysis
-*#### An end-to-end SQL and Power BI analysis on 6 months of sales trends, product performance, and store-level behaviour across a multi-location retail business.*
+* #### An end-to-end SQL and Power BI analysis on 6 months of sales trends, product performance, and store-level behaviour across a multi-location retail business.*
 
 Joe & The Juice is a premium urban food and beverage retailer operating across high-footfall locations in major cities. The brand is known for its strong health-related product identity, fast-paced service model, and emphasis on customer experience. As the company continues to expand its store footprint and product offering, leadership requires deeper insight into **sales performance, product demand, and store-level profitability to support strategic decisions around pricing, staffing, and product portfolio optimisation**. 
 
