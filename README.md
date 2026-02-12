@@ -56,7 +56,7 @@ Below is the overview page from the PowerBI dashboard and more examples are incl
 *Figure 2*
 
 
-## Sales Trend
+## Sales Trends
 Post-New-Year surge drives January sales peak, with a mid-quarter slowdown highlighting seasonal and operational sensitivities. The company’s sales peaked in January 2025, with 65,000 orders generating over £500k in revenue, driven by the “Fresh Start Effect,” where increased health-conscious purchasing influences customer behaviour. 
 
 - From February to April, revenue declined for three consecutive months, hitting a **Q1 low of £460k**, representing a **6–8% month-on-month drop**. Units sold mirrored this trend, indicating that the decline was driven by reduced customer traffic rather than pricing changes.
