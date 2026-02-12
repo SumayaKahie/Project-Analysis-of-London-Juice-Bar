@@ -76,7 +76,8 @@ Full-year performance remains strong, with AOV growth indicating success of prod
 
 
 ## Product Performance
-**Celebrity Shakes Lead the Pack.**
+**Product Mix Reveals Revenue Drivers: Premium Functional Beverages Accelerate Growth While Low-AOV Categories Dilute Performance.**
+
 - The analysis of individual product performance highlights that top-performing items are dominated by the Celebrity Shake line. Among the **top 10 products by revenue**, four are celebrity-endorsed shakes: Trust Your Gut, Big Brain Energy, Feel Good, and Hydration Station. Notably, Trust Your Gut and Big Brain Energy were launched in January 2025 and, together, have generated £266k of total revenue in H1. 
 
 - The remaining top performers are primarily juices and smoothies, including JOE’s Identity, Power and Avo Shake. These products demonstrate strong consumer adoption and highlight the ongoing demand for high-value, fresh, and functional beverages. The success of the celebrity-endorsed shakes indicates that strategic product launches and influencer-driven marketing can significantly impact early adoption and revenue growth.
