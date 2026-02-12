@@ -7,6 +7,7 @@ The company has significant amounts of data on its sales, marketing efforts and 
 
 ### Core Business Areas Analysed
 - Insights and recommendations are provided across four core business areas:
+
 | Business Area                  | Description                                                                                                                                             | Key Metrics                                                                                       | Example Insights / Decisions Supported                                                         |
 | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
 | **Revenue & Demand Trends**    | Examines how sales change over time to identify seasonal patterns, peak trading periods, and shifts in customer demand.                                 | Revenue, Order Volume, Average Order Value (AOV), Time-of-Day Trends, Weekday vs Weekend Sales    | Promotion timing, peak-hour staffing, launch scheduling, demand forecasting                    |
