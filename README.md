@@ -58,6 +58,7 @@ Below is the overview page from the PowerBI dashboard and more examples are incl
 
 ## Sales Trends
 **Early-Year Health Trends Trigger Revenue Spike, Exposing Seasonal Volatility and Operational Levers for Growth.**
+
 Post-New-Year surge drives January sales peak, with a mid-quarter slowdown highlighting seasonal and operational sensitivities. The company’s sales peaked in January 2025, with 65,000 orders generating over £500k in revenue, driven by the “Fresh Start Effect,” where increased health-conscious purchasing influences customer behaviour. 
 
 - From February to April, revenue declined for three consecutive months, hitting a **Q1 low of £460k**, representing a **6–8% month-on-month drop**. Units sold mirrored this trend, indicating that the decline was driven by reduced customer traffic rather than pricing changes.
@@ -98,16 +99,15 @@ Full-year performance remains strong, with AOV growth indicating success of prod
 #### Key Takeaways & Strategic Implications
 ##### Focus on High-Value Beverages
 - The strong performance of Celebrity Shakes and functional juices suggests a continued investment in premium, health-oriented products and potential for further celebrity or influencer partnerships.
-
 ##### Promote Underperforming Products
 - Low-revenue categories like Bowls and Coffee could benefit from bundling or promotional strategies to increase visibility and unit sales.
-
 ##### Category Expansion Opportunities
 - With Juices and Smoothies driving over half of H1 revenue, exploring new flavor profiles, **seasonal specials**, or limited-time launches could further strengthen growth.
 
 
 ## Regional Performance
 **Regional Revenue Gaps Reveal the Real Driver: Product Mix and Customer Intent - Not Store Size.**
+
 Joe & The Juice’s four London stores show clear revenue gaps that are not explained by store size alone, but by customer behavior and product preferences:
 
 <img width="1262" height="263" alt="image" src="https://github.com/user-attachments/assets/c2809b9d-88a4-4dba-ab08-ebecff2a1c0c" />
