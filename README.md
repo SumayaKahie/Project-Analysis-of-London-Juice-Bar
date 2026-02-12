@@ -53,6 +53,8 @@ Below is the overview page from the PowerBI dashboard and more examples are incl
 
 <img width="1277" height="718" alt="image" src="https://github.com/user-attachments/assets/d4163eb4-4013-43b0-9898-071f329a6b4d" />
 
+<img width="1367" height="742" alt="image" src="https://github.com/user-attachments/assets/573fd946-83eb-4259-be0c-bd4082f00c99" />
+
 *Figure 2*
 
 
