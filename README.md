@@ -7,14 +7,13 @@ The company has significant amounts of data on its sales, marketing efforts and 
 
 ### Core Business Areas Analysed
 - Insights and recommendations are provided across four core business areas:
-#### Revenue & Demand Trends
-- Understanding how sales evolve over time and identifying seasonal and behavioural patterns focusing on Revenue, Order Volume and Order Value (AOV).
-#### Product Performance
-- An analysis of Joe’s various product lines, evaluating which products drive revenue versus volume and identifying underperforming items.
-#### Store-Level Performance
-- Comparing store growth, stability, and revenue concentration across locations.
-#### Profitability & Efficiency
-- Assessing margin dynamics and cost drivers to highlight opportunities for optimisation.
+| Business Area                  | Description                                                                                                                                             | Key Metrics                                                                                       | Example Insights / Decisions Supported                                                         |
+| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| **Revenue & Demand Trends**    | Examines how sales change over time to identify seasonal patterns, peak trading periods, and shifts in customer demand.                                 | Revenue, Order Volume, Average Order Value (AOV), Time-of-Day Trends, Weekday vs Weekend Sales    | Promotion timing, peak-hour staffing, launch scheduling, demand forecasting                    |
+| **Product Performance**        | Evaluates how individual products and categories contribute to overall revenue and sales volume, highlighting both high performers and underperformers. | Revenue by Product, Units Sold, Category Contribution, Product Mix                                | Menu optimisation, product promotion strategy, pricing adjustments, identifying growth drivers |
+| **Store-Level Performance**    | Compares performance across store locations, focusing on growth patterns, revenue stability, and customer behaviour differences.                        | Store Revenue, Growth Rate, AOV by Store, Revenue Concentration                                   | Regional strategy, location benchmarking, store-specific promotions, expansion planning        |
+| **Profitability & Efficiency** | Analyses margins, operational costs, and efficiency opportunities to improve financial performance and resource allocation.                             | Gross Margin, Cost of Goods Sold (COGS), Profit per Product/Store, Operational Efficiency Metrics | Staffing optimisation, inventory planning, cost control, operational improvements              |
+
 
 An interactive Power BI dashboard can be provided upon request through a shared link.
 The SQL queries utlisied to inspect and perform quality checks, clean, organise, and prepare data for the dashboard can be found here: https://github.com/SumayaKahie/Juice_bar_ecommerce_analytics/blob/main/SQL/07_quality_checks.sql
