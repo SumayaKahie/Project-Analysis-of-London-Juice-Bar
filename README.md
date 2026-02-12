@@ -34,6 +34,8 @@ The analysis is based on over **200,000 transaction records** spanning the H1 pe
 Each transaction references a product ID and a store ID, creating a one-to-many relationship.
 <img width="751" height="317" alt="image" src="https://github.com/user-attachments/assets/5e142c7d-03fd-40f3-9c7e-40d8a2764c43" />
 
+*Figure 1*
+
 
 ### Analytical Value
 | Stakeholder Need                             | How the Analysis Supports It                                                                                     | Business Decisions Enabled                                                                                     |
@@ -50,6 +52,7 @@ After peaking in early 2025, the company’s sales have continued to decline, wi
 Below is the overview page from the PowerBI dashboard and more examples are included throughout the report.  
 
 <img width="1277" height="718" alt="image" src="https://github.com/user-attachments/assets/d4163eb4-4013-43b0-9898-071f329a6b4d" />
+
 *Figure 2*
 
 
@@ -62,6 +65,7 @@ Post-New-Year surge drives January sales peak, with a mid-quarter slowdown highl
 Full-year performance remains strong, with AOV growth indicating success of product bundling and **celebrity-endorsed offerings**. 
 
 <img width="1272" height="717" alt="image" src="https://github.com/user-attachments/assets/913d3378-d6c7-4287-9c3f-216de1c7365e" />
+
 *Figure 3*
 
 - Despite the early-year dip, full-year 2025 remained **above the 2022–2024 baseline** across all three north-star metrics: Revenue, Units Sold, and Average Order Value (AOV).
@@ -105,12 +109,14 @@ Full-year performance remains strong, with AOV growth indicating success of prod
 Joe & The Juice’s four London stores show clear revenue gaps that are not explained by store size alone, but by customer behavior and product preferences:
 
 <img width="1262" height="263" alt="image" src="https://github.com/user-attachments/assets/c2809b9d-88a4-4dba-ab08-ebecff2a1c0c" />
+
 *Figure 6*
 
 
 - Soho leads the pack, generating **£844k in revenue over H1 2025**. This performance is driven by the highest average order value of £10.53, reflecting the store’s popularity with premium-priced products. The most popular category in Soho is Juice (£373k) and Smoothies (£236k), both higher-priced items, which explains the elevated AOV.
 
 <img width="1251" height="405" alt="image" src="https://github.com/user-attachments/assets/a9d378b0-5104-4b8b-ae79-af9f480ddbd2" />
+
 *Figure 7*
 
 
