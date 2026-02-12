@@ -97,14 +97,8 @@ Full-year performance remains strong, with AOV growth indicating success of prod
 - Bowls and coffee products demonstrate **slower sales despite their menu presence**. Coffee accounts for 20% of total revenue; while order volumes are high, the average order value is only £4, reducing its overall revenue contribution.
 - Bowls represent just **5% of sales**, which can be attributed to the limited menu offering — only two bowl options are available, with JOE’s **Overnight Oats Bowl being the least purchased** product in H1.
 
-#### Key Takeaways & Strategic Implications
-##### Focus on High-Value Beverages
-- The strong performance of Celebrity Shakes and functional juices suggests a continued investment in premium, health-oriented products and potential for further celebrity or influencer partnerships.
-##### Promote Underperforming Products
-- Low-revenue categories like Bowls and Coffee could benefit from bundling or promotional strategies to increase visibility and unit sales.
-##### Category Expansion Opportunities
-- With Juices and Smoothies driving over half of H1 revenue, exploring new flavor profiles, **seasonal specials**, or limited-time launches could further strengthen growth.
-
+##### Business Implications
+Product performance across H1 highlights a clear concentration of revenue within premium, functional beverages, with celebrity shakes and core juice and smoothie lines emerging as the primary commercial drivers of growth and customer engagement. This dominance indicates that customers are increasingly gravitating toward higher-value, health-oriented offerings that combine brand influence with perceived functional benefits. In contrast, categories such as coffee and bowls contribute significantly less to overall revenue, reflecting structural differences in pricing power, menu breadth, and perceived value within the product mix. Together, these patterns reveal a portfolio shaped by strong premium beverage demand alongside lower-yield, high-volume items, underscoring how product composition and consumer preference are central to overall commercial performance.
 
 ## Regional Performance
 **Regional Revenue Gaps Reveal the Real Driver: Product Mix and Customer Intent - Not Store Size.**
