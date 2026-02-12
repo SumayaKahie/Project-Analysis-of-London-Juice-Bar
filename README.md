@@ -6,7 +6,7 @@ Joe & The Juice is a premium urban food and beverage retailer operating across h
 The company has significant amounts of data on its sales, marketing efforts and operational efficiency and product offerings that has previously been underutilised. This project thoroughly analyses transactional sales data to identify key revenue drivers, growth opportunities, and operational risks across Joe & The Juice’s retail network.
 
 ### Core Business Areas Analysed
-- Insights and recommendations are provided across four core business areas:
+##### Insights and recommendations are provided across four core business areas:
 
 | Business Area                  | Description                                                                                                                                             | Key Metrics                                                                                       | Example Insights / Decisions Supported                                                         |
 | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
@@ -15,7 +15,7 @@ The company has significant amounts of data on its sales, marketing efforts and 
 | **Store-Level Performance**    | Compares performance across store locations, focusing on growth patterns, revenue stability, and customer behaviour differences.                        | Store Revenue, Growth Rate, AOV by Store, Revenue Concentration                                   | Regional strategy, location benchmarking, store-specific promotions, expansion planning        |
 | **Profitability & Efficiency** | Analyses margins, operational costs, and efficiency opportunities to improve financial performance and resource allocation.                             | Gross Margin, Cost of Goods Sold (COGS), Profit per Product/Store, Operational Efficiency Metrics | Staffing optimisation, inventory planning, cost control, operational improvements              |
 
-
+### Accessing Data/Code
 An interactive Power BI dashboard can be provided upon request through a shared link.
 The SQL queries utlisied to inspect and perform quality checks, clean, organise, and prepare data for the dashboard can be found here: https://github.com/SumayaKahie/Juice_bar_ecommerce_analytics/blob/main/SQL/07_quality_checks.sql
 
@@ -37,9 +37,6 @@ The analysis is based on over 200,000 transaction records spanning the H1 period
 ### Relationships Between Tables
 Each transaction references a product ID and a store ID, creating a one-to-many relationship.
 <img width="951" height="517" alt="image" src="https://github.com/user-attachments/assets/5e142c7d-03fd-40f3-9c7e-40d8a2764c43" />
-
-
-
 Figure 1
 
 ### Analytical Value
