@@ -64,7 +64,7 @@ Post-New-Year surge drives January sales peak, with a mid-quarter slowdown highl
 
 Full-year performance remains strong, with AOV growth indicating success of product bundling and **celebrity-endorsed offerings**. 
 
-<img width="872" height="417" alt="image" src="https://github.com/user-attachments/assets/913d3378-d6c7-4287-9c3f-216de1c7365e" />
+<img width="572" height="417" alt="image" src="https://github.com/user-attachments/assets/913d3378-d6c7-4287-9c3f-216de1c7365e" />
 
 *Figure 3*
 
