@@ -118,12 +118,13 @@ Joe & The Juice’s four London stores show clear revenue gaps that are not expl
 
 
 - Tottenham Court Road comes second, **earning £713k, with an AOV of £8.81**. The store’s most popular product category is Coffee (£238k), which is the lowest-priced item among top categories, partially explaining the lower AOV. Tottenham’s customer base is heavily commuter-driven, resulting in high weekday traffic but lower spending per order.
-
 - Dean Street and Liverpool Street **lag behind with £687k and £677k** respectively, reflecting a mix of office/residential (Dean) and financial district (Liverpool) traffic. Their average order values fall between £8.81 and £8.47, in line with the mix of products purchased. Dean Street benefits from a balanced product mix, while Liverpool Street relies heavily on lower-priced coffee, which keeps AOV at the bottom of the four stores.
-  
 #### Revenue Share Insights
 - Soho accounts for 29% of total revenue, ending with Liverpool Street at 23%, highlighting its disproportionate contribution.
 - Tottenham Court Road and Dean Street contribute the remaining middle 48%, indicating potential to boost revenue through product mix optimisation and targeted promotions.
+
+**Business Implications**
+Regional performance across the four London stores reveals that revenue differences are shaped less by physical footprint and more by customer intent and product mix. Soho’s leading position is driven by consistently higher average order values and strong demand for premium juices and smoothies, reflecting a leisure-oriented customer base willing to spend more per visit. In contrast, Tottenham Court Road’s commuter-heavy traffic generates high transaction volume but lower spend per order due to a reliance on lower-priced coffee products. Dean Street and Liverpool Street sit between these extremes, with performance influenced by a balance of office, residential, and financial district customers, though Liverpool Street’s heavier dependence on low-value items suppresses overall revenue potential. Collectively, these patterns highlight how regional customer behaviour and purchasing preferences shape commercial outcomes, reinforcing the importance of aligning product mix with local demand dynamics.
 
 
 ## Temporal Behaviour Patterns  
