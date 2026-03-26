@@ -205,3 +205,12 @@ Recommendation: Introduce promotions or value bundles for bowls and coffee to in
 | Strategic Planning | Monitor via Power BI; pilot new initiatives                            | Ensure data-driven decisions and measurable results  |
 
 
+### Limitations
+
+Synthetic Dataset — The transactional data used in this project was generated using a custom Python script designed to simulate realistic retail behaviour. While the dataset reflects plausible sales patterns, product mixes, and store dynamics, it does not represent real Joe & The Juice trading data. Findings and recommendations are therefore illustrative rather than operational.
+Six-Month Window — The analysis covers H1 2025 only. Without full-year or multi-year data, it is difficult to distinguish true seasonality from short-term fluctuations, and year-on-year comparisons are limited.
+No Customer-Level Data — The dataset contains no customer identifiers, meaning repeat purchase behaviour, loyalty patterns, and customer lifetime value cannot be analysed. Insights into purchasing behaviour are inferred from transaction-level aggregates rather than individual journeys.
+No Returns or Refunds — The dataset does not account for returned or refunded transactions, which may slightly overstate revenue and margin figures.
+Four Stores Only — Analysis is limited to four London locations. Conclusions about regional strategy should be treated with caution before being applied to a broader or international store network.
+
+
